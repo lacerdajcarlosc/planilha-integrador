@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+*.ipynb_checkpoints
+.vscode/
+.mypy_cache/
+*.xlsx
+*.pdf
+*.csv
+*.log
+*.xls
