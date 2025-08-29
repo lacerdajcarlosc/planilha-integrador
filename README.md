@@ -1,6 +1,6 @@
-# 📊 Processador de Planilhas PJES - Agosto 2024
+# 📊 Processador de Planilhas
 
-Este script em Python automatiza o processamento de planilhas de prestação de serviço (PJES) para o mês de **Agosto de 2024**, consolidando dados, calculando valores, classificando verbas e gerando tabelas dinâmicas em um único arquivo Excel.
+Este script em Python automatiza o processamento de planilhas de prestação de serviço (PJES), consolidando dados, calculando valores, classificando verbas e gerando tabelas dinâmicas em um único arquivo Excel.
 
 ## 🧩 Funcionalidades
 
